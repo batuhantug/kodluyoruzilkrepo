@@ -1,6 +1,8 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
+(/github.png)
+
 ## Installation
 Öncelikle projeyi clonelayın.
 
@@ -23,4 +25,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 
-[https://github.com/batuhantug/kodluyoruzilkrepo/blob/main/LICENSE](MIT) 
+[MIT](https://github.com/batuhantug/kodluyoruzilkrepo/blob/main/LICENSE) 
